@@ -1,0 +1,1 @@
+java -cp mysql-connector-java-5.0.8-bin.jar;jooq-codegen-3.7.0.jar;jooq-meta-3.7.0.jar;jooq-3.7.0.jar;. org.jooq.util.GenerationTool student.xml
